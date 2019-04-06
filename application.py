@@ -1,3 +1,13 @@
+# Artificial Intelligence for business
+# Optimizing
+
+
+# Importing the libraries
+import numpy as np
+import json
+
+# API with flask
+from flask import request
 from flask import Flask
 app = Flask(__name__)
 
