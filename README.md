@@ -6,4 +6,4 @@ The goal is to take te best possible selection of lifters between the farmer and
 
 The results of the code show that D is avoided and G is always part of the selection
 
-![Screenshot](https://github.com/fuzzballb/python-Qlearning-Logistics/blob/master/Screenshot2.PNG)
+![Screenshot](https://github.com/fuzzballb/python-Qlearning-Logistics/blob/master/Screenshots.PNG)
